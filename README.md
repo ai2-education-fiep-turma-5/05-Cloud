@@ -5,3 +5,5 @@
 * Aula 1 Sistemas Distribuidos [Slide](https://github.com/ai2-education-fiep-turma-5/05-Cloud/blob/main/slides/Cloud.pdf).
 
 * Aula 2 EC2 e IAM [Slide](https://github.com/ai2-education-fiep-turma-5/05-Cloud/blob/main/slides/AWS.pdf).
+
+* Aula 3 Jupter AWS [Files](https://github.com/ai2-education-fiep-turma-5/05-Cloud/blob/main/Files).
