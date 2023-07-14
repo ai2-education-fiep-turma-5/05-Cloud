@@ -7,3 +7,10 @@
 * Aula 2 EC2 e IAM [Slide](https://github.com/ai2-education-fiep-turma-5/05-Cloud/blob/main/slides/AWS.pdf).
 
 * Aula 3 Jupter AWS [Files](https://github.com/ai2-education-fiep-turma-5/05-Cloud/blob/main/Files), [Exercicios](https://github.com/ai2-education-fiep-turma-5/05-Cloud/blob/main/Exercicios/Server_AWS.md).
+
+* Aula 4 Notebook e Séries Temporais [Dataset](https://github.com/ai2-education-fiep-turma-5/05-Cloud/tree/main/dataset).
+
+
+
+
+
